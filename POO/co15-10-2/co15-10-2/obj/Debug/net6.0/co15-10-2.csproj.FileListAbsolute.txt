@@ -1,0 +1,15 @@
+C:\Users\Gris\Desktop\poo\co15-10-2\co15-10-2\bin\Debug\net6.0\co15-10-2.exe
+C:\Users\Gris\Desktop\poo\co15-10-2\co15-10-2\bin\Debug\net6.0\co15-10-2.deps.json
+C:\Users\Gris\Desktop\poo\co15-10-2\co15-10-2\bin\Debug\net6.0\co15-10-2.runtimeconfig.json
+C:\Users\Gris\Desktop\poo\co15-10-2\co15-10-2\bin\Debug\net6.0\co15-10-2.dll
+C:\Users\Gris\Desktop\poo\co15-10-2\co15-10-2\bin\Debug\net6.0\co15-10-2.pdb
+C:\Users\Gris\Desktop\poo\co15-10-2\co15-10-2\obj\Debug\net6.0\co15-10-2.csproj.AssemblyReference.cache
+C:\Users\Gris\Desktop\poo\co15-10-2\co15-10-2\obj\Debug\net6.0\co15-10-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gris\Desktop\poo\co15-10-2\co15-10-2\obj\Debug\net6.0\co15-10-2.AssemblyInfoInputs.cache
+C:\Users\Gris\Desktop\poo\co15-10-2\co15-10-2\obj\Debug\net6.0\co15-10-2.AssemblyInfo.cs
+C:\Users\Gris\Desktop\poo\co15-10-2\co15-10-2\obj\Debug\net6.0\co15-10-2.csproj.CoreCompileInputs.cache
+C:\Users\Gris\Desktop\poo\co15-10-2\co15-10-2\obj\Debug\net6.0\co15-10-2.dll
+C:\Users\Gris\Desktop\poo\co15-10-2\co15-10-2\obj\Debug\net6.0\refint\co15-10-2.dll
+C:\Users\Gris\Desktop\poo\co15-10-2\co15-10-2\obj\Debug\net6.0\co15-10-2.pdb
+C:\Users\Gris\Desktop\poo\co15-10-2\co15-10-2\obj\Debug\net6.0\co15-10-2.genruntimeconfig.cache
+C:\Users\Gris\Desktop\poo\co15-10-2\co15-10-2\obj\Debug\net6.0\ref\co15-10-2.dll
